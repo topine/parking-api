@@ -1,5 +1,5 @@
 
-# Toll Parking Library : APIS for a Toll Parking 
+# Toll Parking Library : APIs for a Toll Parking 
 
 Project created using:
 
