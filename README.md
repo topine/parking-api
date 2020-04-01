@@ -21,7 +21,7 @@ Docker and docker-compose
 
 ## Building
 
-The project build done using maven but inside a docker build image.
+The project build is done using maven but inside a docker build image.
 
 Like this we can assure that only the correct language version and libraries are going to be used. 
 
